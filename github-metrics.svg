@@ -2402,7 +2402,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dnSpyEx/dnSpy</span>
-                                        <span>starred 28 days ago</span>
+                                        <span>starred 29 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Unofficial revival of the well known .NET debugger and assembly editor, dnSpy</div>
@@ -2859,7 +2859,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Oct 2022, 17:23:12 (timezone Australia/Hobart) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 8 Oct 2022, 18:19:39 (timezone Australia/Hobart) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
