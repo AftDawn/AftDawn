@@ -2344,7 +2344,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>th-ch/youtube-music</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)</div>
@@ -2968,7 +2968,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Aug 2024, 14:16:56 (timezone Australia/Hobart) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Aug 2024, 15:13:41 (timezone Australia/Hobart) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
